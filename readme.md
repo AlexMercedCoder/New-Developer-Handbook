@@ -13,6 +13,7 @@ This guide is to help new developers find "getting started" information and help
 Regardless what type of development you plan on getting into, some understanding of HTML and CSS matter as they are the main ingredients in the interfaces or "front end" of most modern applications regardless of medium (desktop/web/mobile) and regardless of the language the guts or "backend" is created with.
 
 - [HTML/CSS Video Playlist](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX)
+- [FreeCodeCamp Responsive Web Course](https://www.freecodecamp.org/learn/responsive-web-design/)
 
 ## Languages
 
