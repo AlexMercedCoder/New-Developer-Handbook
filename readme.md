@@ -31,6 +31,7 @@ Each of these guides will provide information on install, learning and understan
 - [Swift](./lang/swift.md)
 - [Ballerina](./lang/ballerina.md)
 - [Dotnet](./lang/dotnet.md)
+- [Dart](./lang/dart.md)
 
 ## Tools
 
