@@ -7,6 +7,7 @@ This guide is to help new developers find "getting started" information and help
 **Getting Started Reading**
 - [How to become a Developer](https://tuts.alexmercedcoder.com/2022/1/becoming_a_developer_in_2022/)
 - [Developing your Developer Brand](https://tuts.alexmercedcoder.com/2020/branding/)
+- [Codeware: Code Challenge Website](https://www.codewars.com)
 
 ## HTML & CSS
 
@@ -14,6 +15,12 @@ Regardless what type of development you plan on getting into, some understanding
 
 - [HTML/CSS Video Playlist](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX)
 - [FreeCodeCamp Responsive Web Course](https://www.freecodecamp.org/learn/responsive-web-design/)
+
+**CSS Games**
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Defender](http://www.flexboxdefense.com/)
+- [Grid Garden](https://cssgridgarden.com/)
+- [CSS Diner](https://flukeout.github.io/)
 
 ## Languages
 
@@ -45,6 +52,12 @@ Just as important as knowing a programming language is knowing the tools  of the
 
 Your applications needs to store data somewhere so knowing about different types of databases, how they work and how they scale will be integral to your success.
 
+**Quick Database References**
+- [Top Databases](https://towardsdatascience.com/top-10-databases-to-use-in-2021-d7e6a85402ba)
+- [7 Types of Databases](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+- [Best Book on Data: Designing Data Intensive Applications](https://amzn.to/3v3fNo3)
+
+**Learning Sections**
 - [Relational/SQL Databases](./db/rel.md)
 - [Document/noSQL Databases](./db/doc.md)
 - [Graph Databases](./db/graph.md)
