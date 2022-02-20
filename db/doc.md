@@ -15,3 +15,5 @@ Schemas can be enforced when reading the data in some DocDBs, this is known as S
 - DynamoDB
 - RavenDB
 - RethinkDB
+
+- [MongoDB Playlist](https://youtube.com/playlist?list=PLY6oTPmKnKbaSCVF-Imd1hkQJvl8iLrV3)
