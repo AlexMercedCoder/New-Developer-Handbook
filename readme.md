@@ -46,7 +46,7 @@ Your applications needs to store data somewhere so knowing about different types
 
 - [Relational/SQL Databases](./db/rel.md)
 - [Document/noSQL Databases](./db/doc.md)
-- [Git/Version Control](./db/graph.md)
+- [Graph Databases](./db/graph.md)
 
 ## Computer Science
 
