@@ -48,6 +48,12 @@ Just as important as knowing a programming language is knowing the tools  of the
 - [Bash/Terminal](./tool/term.md)
 - [Git/Version Control](./tool/git.md)
 
+**Other Important Tools**
+- [How to use Markdown Basics](https://www.youtube.com/watch?v=lbpRomejEd0&t=13s)
+- [Making Flowcharts with Markdown on Github](https://www.youtube.com/watch?v=xWXXug9q8AU)
+- [Organizing your developer life with Notion](https://www.youtube.com/watch?v=VbLUe2TyQq8&t=41s)
+- [Intro to Using Docker](https://youtube.com/playlist?list=PLY6oTPmKnKbY4s-zvHlgaa3UROegVr8f9)
+
 ## Databases
 
 Your applications needs to store data somewhere so knowing about different types of databases, how they work and how they scale will be integral to your success.
