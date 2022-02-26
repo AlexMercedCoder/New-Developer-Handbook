@@ -9,6 +9,9 @@ This guide is to help new developers find "getting started" information and help
 - [Developing your Developer Brand](https://tuts.alexmercedcoder.com/2020/branding/)
 - [Codeware: Code Challenge Website](https://www.codewars.com)
 
+**Bonus Resources**
+- [Project + Documentation Template](https://github.com/AlexMercedCoder/bootcamp-new-project-template)
+
 ## HTML & CSS
 
 Regardless what type of development you plan on getting into, some understanding of HTML and CSS matter as they are the main ingredients in the interfaces or "front end" of most modern applications regardless of medium (desktop/web/mobile) and regardless of the language the guts or "backend" is created with.
