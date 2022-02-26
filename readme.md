@@ -18,12 +18,15 @@ Regardless what type of development you plan on getting into, some understanding
 
 - [HTML/CSS Video Playlist](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX)
 - [FreeCodeCamp Responsive Web Course](https://www.freecodecamp.org/learn/responsive-web-design/)
+- [Creating a Dev Environment with Docker](https://tuts.alexmercedcoder.com/2022/2/create-a-dev-environment-with-docker/)
 
 **CSS Games**
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox Defender](http://www.flexboxdefense.com/)
 - [Grid Garden](https://cssgridgarden.com/)
 - [CSS Diner](https://flukeout.github.io/)
+
+You can find my other video playlists [here](https://www.devnursery.com) and my blog tutorials [here](https://tuts.alexmercedcoder.com)
 
 ## Languages
 
